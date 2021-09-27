@@ -10,3 +10,12 @@
 
 ![nkust](https://user-images.githubusercontent.com/91454223/134865117-dbd66dad-30e4-4d55-871f-3e2b66606a5c.png)
 
+This is a `text` .
+
+```
+This is a long quote.
+```
+
+ - [x] this is checked
+ 
+ - [ ] undo
