@@ -25,11 +25,11 @@ This is a long quote.
 - [ ] 4th work
 
 
-Emphasis, aka italics, with **asterisks or ***undersocores***.
+Emphasis, aka italics, with *asterisks* or *undersocores*.
 
-Strong emphasis, aka bold, with **asterisks** or undersocores.
+Strong emphasis, aka bold, with **asterisks** or **undersocores**.
 
-Combined emphasis with **asterisks and undersocores**.
+Combined emphasis with **asterisks and** ***undersocores***.
 
 Strikethrough uses two tildes. ~~Scratch this~~
 
