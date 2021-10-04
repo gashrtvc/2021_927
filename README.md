@@ -26,12 +26,12 @@ This is a long quote.
 
 
 |Tables|Are|Cool|
-|:-----:|:----:|:----:|
+|:-----|:----:|----:|
 |col 3 is|right-aligned|$1600|
 |col 2 is|centered|$12|}
 |zebra|are neat|$1
 
 |Markdown|Less|Pretty|
-|:-----|----:|:----:|
+|:-----:|:----:|:----:|
 |_Still_|`renders`|**nicely**|
 |1|2|3|}
