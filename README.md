@@ -33,7 +33,5 @@ This is a long quote.
 
 |Markdown|Less|Pretty|
 |:-----:|:----|:----:|
-|_Still_|`renders`|**nicely**|
-|:-----|:----:|:----:|
-|1|2|3|
-|:-----|:----|:----|}
+|:_Still_|:`renders`:|:**nicely**:|
+|1|2|3|}
