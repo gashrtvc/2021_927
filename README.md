@@ -25,6 +25,15 @@ This is a long quote.
 - [ ] 4th work
 
 
+1.Emphasis, aka italics, with asterisks or undersocores.
+
+2.Strong emphasis, aka bold, with ***asterisks*** or ***undersocores.***
+
+3.Combined emphasis with ***asterisks and undersocores.***
+
+4.Strikethrough uses two tildes.~~Scratch this~~
+
+
 |Tables|Are|Cool|
 |:--------|:----:|----:|
 |col 3 is|right-aligned|$1600|
