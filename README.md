@@ -1,4 +1,4 @@
-# 2021_927
+# 2021_0927
 
 ## 學號：C108118181 姓名：紀珮淳
 
@@ -33,6 +33,8 @@ Combined emphasis with **asterisks and** ***undersocores***.
 
 Strikethrough uses two tildes. ~~Scratch this~~
 
+- [x] todo list
+- [ ] 2nd things
 
 |Tables|Are|Cool|
 |:--------|:----:|----:|
