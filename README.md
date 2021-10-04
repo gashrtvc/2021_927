@@ -35,8 +35,9 @@ Strong emphasis, aka bold, with **asterisks** or **undersocores**.
 
 Combined emphasis with **asterisks and** ***undersocores***.
 
-Strikethrough uses two tildes. ~~Scratch this~~
+Strikethrough uses two tildes. ~~Scratch this~~.
 
+- - -
 1. First ordered list item
 2. Another item
   * Unordered sub-list.
@@ -48,16 +49,18 @@ Strikethrough uses two tildes. ~~Scratch this~~
    * note 2
    * note 3
 
-- [x] todo list
+- - -
+- [ ] todo list
 - [ ] 2nd things
+- - -
 
-python code
+## python code
 ```py
 s = "Python syntax highlighting"
 print s
 ```
-
-javascript code
+- - -
+## javascript code
 ```js
 var s = "JavaScript syntax highllghting";
 alart(s);
