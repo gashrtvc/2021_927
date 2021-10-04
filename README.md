@@ -1,10 +1,10 @@
 # 2021_927
 
-學號：C108118181 姓名：紀珮淳
+## 學號：C108118181 姓名：紀珮淳
 
-組員：C108118181 紀珮淳 C108118182劉姿瑛 C108118183盧品辰 C108118184劉上豪
+### 組員：C108118181 紀珮淳 C108118182劉姿瑛 C108118183盧品辰 C108118184劉上豪
 
-題目：
+#### 題目：
 
 :smile:
 
@@ -23,3 +23,15 @@ This is a long quote.
 - [ ] 2nd job
 - [x] 3rd job
 - [ ] 4th work
+
+
+|Tables|Are|Cool|
+|:-----|----:|:----:|
+|col 3 is|right-aligned|$1600|
+|col 2 is|centered|$12|}
+|zebra|are neat|$1
+
+|Markdown|Less|Pretty|
+|:-----|----:|:----:|
+|_Still_|`renders`|**nicely**|
+|1|2|3|}
